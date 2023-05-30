@@ -1,5 +1,3 @@
-QRCODE
-
 Imports AForge
 Imports AForge.Video
 Imports AForge.Video.DirectShow
